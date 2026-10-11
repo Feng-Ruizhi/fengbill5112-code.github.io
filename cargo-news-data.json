@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-11T09:33:08+08:00",
+  "pageUpdated": "2026-10-11T14:03:55+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "partial",
   "items": [
@@ -1940,6 +1940,56 @@
         ]
       ],
       "updatedAt": "2026-10-11T09:33:08+08:00"
+    },
+    {
+      "id": "mex-simon-pvr-zlo-20261010",
+      "region": "拉美",
+      "type": "飓风与机场关闭",
+      "state": "新增",
+      "title": "飓风Simon导致PVR和ZLO临时关闭，PVR计划10月12日重开",
+      "airports": "PVR / ZLO",
+      "occurred": "2026-10-10/2026-10-12",
+      "evidenceThrough": "2026-10-11T14:00:32+08:00",
+      "confidence": "GAP官方公告可读；货站、快件和各航司恢复安排未核",
+      "fact": "Grupo Aeroportuario del Pacífico 10月10日公告称，PVR按AFAC NOTAM自当地时间10月10日18:00关闭，计划10月12日08:00重开；ZLO自10月10日18:00关闭至10月11日08:00当地时间。",
+      "impact": "业务推断：墨西哥太平洋沿岸相关腹舱、快件、机场提派和区域卡车衔接可能受取消、延误及灾后检查影响；这不是MEX/NLU或墨西哥全国机场关闭。",
+      "action": "涉及PVR/ZLO到离港或经墨西哥内陆衔接的货物，确认实际航班、货站接收、改配机场、道路提派和易腐/温控货优先处理。",
+      "titleEn": "Hurricane Simon temporarily closes PVR and ZLO, with PVR planned to reopen on October 12",
+      "factEn": "Grupo Aeroportuario del Pacífico said on October 10 that PVR would close from 18:00 local time on October 10 under an AFAC NOTAM, with reopening planned for 08:00 on October 12. ZLO would close from 18:00 on October 10 until 08:00 local time on October 11.",
+      "impactEn": "Business inference: belly cargo, express, airport pickup/delivery and regional trucking on Mexico’s Pacific coast may face cancellations, delays and post-storm checks. This is not a closure of MEX/NLU or all Mexican airports.",
+      "actionEn": "For PVR/ZLO origin, destination or inland Mexico connections, verify actual flight operation, terminal acceptance, alternate airport, road pickup/delivery and priority handling for perishables or temperature-controlled freight.",
+      "sources": [
+        [
+          "Grupo Aeroportuario del Pacífico",
+          "https://aeropuertosgap.com.mx/es/comunicados-generales.html"
+        ]
+      ],
+      "updatedAt": "2026-10-11T14:03:55+08:00"
+    },
+    {
+      "id": "taag-stma-strike-20261011",
+      "region": "非洲",
+      "type": "维修人员罢工预告",
+      "state": "预告",
+      "title": "TAAG维修技术人员工会计划10月11日至15日罢工，航班与货运需复核",
+      "airports": "LAD / TAAG网络；具体货运航点待核",
+      "occurred": "2026-10-11/2026-10-15",
+      "evidenceThrough": "2026-10-11T14:00:32+08:00",
+      "confidence": "TAAG官方英文新闻页可读；未取得货运班表取消或保障航班清单",
+      "fact": "TAAG 10月7日公告称已收到Aircraft Maintenance Technicians Union（STMA）的罢工通知，计划罢工期包括2026年10月11日至15日、11月6日至10日、12月5日至10日及12月19日至23日；公司称已启动应急计划并继续谈判。",
+      "impact": "业务推断：如10月11日至15日行动执行，TAAG客机腹舱、专项货运和经LAD的非洲区域衔接可能受维修放行、延误或取消影响；当前证据不等于TAAG全网停飞或货站停收。",
+      "action": "涉及TAAG承运或LAD衔接的货物，确认当日航班、机型、货物接受、可替代承运人和后程安排；专项/活体/温控货需优先取得书面确认。",
+      "titleEn": "TAAG maintenance technicians’ union plans October 11-15 strike; flights and cargo need rechecking",
+      "factEn": "TAAG said on October 7 that it had received a strike notice from the Aircraft Maintenance Technicians Union (STMA), with planned strike periods including October 11-15, November 6-10, December 5-10 and December 19-23, 2026. The airline said it had activated a contingency plan and continued dialogue.",
+      "impactEn": "Business inference: if the October 11-15 action proceeds, TAAG belly cargo, special cargo and LAD-based regional connections may be affected by maintenance release, delay or cancellation risk. Current evidence does not mean a TAAG network-wide shutdown or cargo terminal embargo.",
+      "actionEn": "For TAAG-carried cargo or LAD connections, confirm same-day flight operation, aircraft type, cargo acceptance, alternate carrier and onward arrangements. Special, live-animal and temperature-controlled cargo should get written confirmation first.",
+      "sources": [
+        [
+          "TAAG Press Releases",
+          "https://flytaag.com/en/Taag/Press-releases"
+        ]
+      ],
+      "updatedAt": "2026-10-11T14:03:55+08:00"
     }
   ],
   "runs": [
@@ -4720,10 +4770,60 @@
         "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：pty-earthquake-20261009",
         "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：njf-iran-20260925"
       ]
+    },
+    {
+      "runId": "run-20261011T140032-415467b7cf",
+      "startedAt": "2026-10-11T14:00:32+08:00",
+      "finishedAt": "2026-10-11T14:03:55+08:00",
+      "status": "partial",
+      "regionsSearched": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "added": 2,
+      "updated": 0,
+      "unsearchedRegions": [],
+      "sourceGaps": [
+        "FAA NAS Status页面需要JavaScript，无法作为可读正文来源支持北美实时事件。",
+        "BRU官方运行沟通页本轮可读内容未显示10月9日Alyzia行动后的恢复详情。",
+        "沙特GACA/KKIA英文原始运行公告、NOTAM和RUH货站逐项接货状态未取得。",
+        "澳大利亚ABF ICS 10月10-11维护后的实时恢复公告未取得。",
+        "PNS/VPS/ECP在Isaias后的机场和货站重开公告未取得；不能把计划或时间推定为恢复。",
+        "本轮搜索不能证明全球无其他事件；仅代表已执行查询和已打开来源的证据边界。",
+        "搜索返回ANA/Asiana等收费和旧运营信息；本轮未找到过去24小时内可读英文原始来源支持的亚洲新增机场/航班中断事件。",
+        "欧洲搜索主要返回罢工日历、BRU 10月9日预告和历史行动；未取得10月10-11可读官方恢复或新的货运中断来源。",
+        "FAA NAS动态页打开后正文需JavaScript，未能读取PHX等实时事件详情；Isaias相关机场未取得PNS/VPS/ECP最新重开公告。",
+        "已核PVR/ZLO飓风关闭及PTY恢复；未能覆盖所有加勒比及南美小机场即时运行状态。",
+        "RUH最新袭击已核；仍缺沙特GACA英文原始逐班/货运货站通知和各货运承运人最新接受清单。",
+        "已核TAAG罢工预告；未取得TAAG Cargo具体保障班表或实际取消清单。",
+        "搜索主要返回澳大利亚ICS维护既有窗口和Qantas旧通知；未取得过去24小时内新的大洋洲航空货运中断或恢复来源。",
+        "ANA英文页面仍支持10月16日起日本出发货物燃油附加费；未发现恢复/取消或实质变化，故不另返更新。",
+        "仅找到FTA/APSA既有维护窗口和旧ICS恢复样例；未取得ABF针对10月10-11窗口的实时恢复公告或个票影响证据。",
+        "找到10月9日取消预告和机场运行沟通页，但机场页面未给出10月10货运/地服恢复正文；不把窗口过去改写为已恢复。",
+        "检索仍主要指向MIT历史登记、旅客讨论和保障航班信息；未取得货站、GHA或航司恢复/实际影响确认。",
+        "LBA官方10月5日仍称预计接近正常运行；未见取消、撤销或货运专门通知，保留预告状态。",
+        "已取得Shafaq 10月4日恢复证据并返回更新；货机/货邮和Mahan Air除外范围仍待单票核实。",
+        "找到UAE/GCAA 9月24日暂停伊朗航司旧证据和OFAC页面；未见UAE解除暂停或恢复确认，故不更新。",
+        "已取得AP与Valora恢复运行证据并返回已恢复更新；货站积压和后程仍无逐项清单。",
+        "Qantas Freight新闻页仍显示10月7日MEL出口ULD临时安排；未列结束日或新调整，故不更新。",
+        "已取得10月10新袭击和机场暂停延长证据并返回恶化更新；货站逐项状态仍待官方/承运人清单。",
+        "FDOT仍支持10月9日PNS/VPS/ECP关闭商业服务；未找到10月11明确重开及货站恢复公告，保持恢复待核。",
+        "找到WorldACD周度档案和媒体转述，但无与既有W38条目不同的实质新口径；不返回更新。",
+        "WorldACD档案页确认W39主题，ANA/市场报道未改变既有CAAS转述事实；不返回更新。",
+        "过去七日未解决事件仍有 13 条未完成联网复核",
+        "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：ruh-attack-suspensions-20261008",
+        "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：pty-earthquake-20261009",
+        "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：njf-iran-20260925"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261011T093005-8905650f18",
-  "lastAttemptAt": "2026-10-11T09:30:05+08:00",
-  "lastCompletedAt": "2026-10-11T09:33:08+08:00"
+  "runId": "run-20261011T140032-415467b7cf",
+  "lastAttemptAt": "2026-10-11T14:00:32+08:00",
+  "lastCompletedAt": "2026-10-11T14:03:55+08:00"
 }
