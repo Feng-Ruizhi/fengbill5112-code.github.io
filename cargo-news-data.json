@@ -1,7 +1,7 @@
 {
-  "pageUpdated": "2026-10-12T18:02:44+08:00",
+  "pageUpdated": "2026-10-13T09:30:20+08:00",
   "lastSuccessfulCheck": null,
-  "runStatus": "partial",
+  "runStatus": "failed",
   "items": [
     {
       "id": "uk-nats-20260908",
@@ -1993,32 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-10T22:23:58+08:00",
-      "finishedAt": "2026-09-10T22:27:57+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 5,
-      "updated": 2,
-      "recheckedUnchanged": 3,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "TWU正文访问失败（ITF及WWTG补充）",
-        "SolitAir官方站访问失败",
-        "LATAM列表未定位摘要所称新航线",
-        "MIA最新跑道状态未取得",
-        "国泰中东复航明细未取得"
-      ],
-      "runId": "legacy-1"
-    },
     {
       "startedAt": "2026-09-11T09:31:58+08:00",
       "finishedAt": "2026-09-11T09:35:20+08:00",
@@ -5024,10 +4998,31 @@
         "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：us-gulf-isaias-airports-20261009",
         "候选缺少对应地区、来源正文访问或旧事件复核证据，已保留原记录：worldacd-w40-20261012"
       ]
+    },
+    {
+      "runId": "run-20261013T093015-626281c395",
+      "startedAt": "2026-10-13T09:30:15+08:00",
+      "finishedAt": "2026-10-13T09:30:20+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261012T180008-97996fefd5",
-  "lastAttemptAt": "2026-10-12T18:00:08+08:00",
-  "lastCompletedAt": "2026-10-12T18:02:44+08:00"
+  "runId": "run-20261013T093015-626281c395",
+  "lastAttemptAt": "2026-10-13T09:30:15+08:00",
+  "lastCompletedAt": "2026-10-13T09:30:20+08:00"
 }
