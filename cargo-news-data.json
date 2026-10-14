@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-13T18:00:09+08:00",
+  "pageUpdated": "2026-10-14T09:30:31+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,31 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-11T18:01:49+08:00",
-      "finishedAt": "2026-09-11T18:03:48+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 1,
-      "updated": 0,
-      "materialAlerts": 1,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "国泰中东复航明细仍未取得",
-        "MIA当前跑道状态未取得",
-        "澳洲停工及Poste实际恢复未取得",
-        "拉美与非洲近24小时高可信新事件有限；不据此认定无事件"
-      ],
-      "runId": "legacy-4"
-    },
     {
       "startedAt": "2026-09-12T09:31:09+08:00",
       "finishedAt": "2026-09-12T09:33:11+08:00",
@@ -5011,10 +4986,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261014T093025-a1b46d06f3",
+      "startedAt": "2026-10-14T09:30:25+08:00",
+      "finishedAt": "2026-10-14T09:30:31+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261013T180000-558719f6f3",
-  "lastAttemptAt": "2026-10-13T18:00:00+08:00",
-  "lastCompletedAt": "2026-10-13T18:00:09+08:00"
+  "runId": "run-20261014T093025-a1b46d06f3",
+  "lastAttemptAt": "2026-10-14T09:30:25+08:00",
+  "lastCompletedAt": "2026-10-14T09:30:31+08:00"
 }
