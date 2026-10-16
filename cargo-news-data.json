@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-15T18:00:20+08:00",
+  "pageUpdated": "2026-10-16T09:30:16+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,31 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-14T14:00:52+08:00",
-      "finishedAt": "2026-09-14T14:02:27+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 0,
-      "updated": 0,
-      "materialAlerts": 0,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "国泰维护服务未登录实测，公告正文仍不完整",
-        "UIO、MIA及澳洲提派缺少最新恢复确认",
-        "部分地区检索返回旧新闻，未视为当天新闻",
-        "JNB燃油报道为9月10日回述9月9日讲话，未取得最新官方运行通告"
-      ],
-      "runId": "legacy-10"
-    },
     {
       "startedAt": "2026-09-15T13:55:20+08:00",
       "finishedAt": "2026-09-15T13:57:48+08:00",
@@ -4986,10 +4961,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261016T093010-eb46d6284c",
+      "startedAt": "2026-10-16T09:30:10+08:00",
+      "finishedAt": "2026-10-16T09:30:16+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261015T180015-307b0c0add",
-  "lastAttemptAt": "2026-10-15T18:00:15+08:00",
-  "lastCompletedAt": "2026-10-15T18:00:20+08:00"
+  "runId": "run-20261016T093010-eb46d6284c",
+  "lastAttemptAt": "2026-10-16T09:30:10+08:00",
+  "lastCompletedAt": "2026-10-16T09:30:16+08:00"
 }
