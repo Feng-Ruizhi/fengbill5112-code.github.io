@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-16T18:00:14+08:00",
+  "pageUpdated": "2026-10-17T09:30:15+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,30 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-16T09:55:45+08:00",
-      "finishedAt": "2026-09-16T09:58:27+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 5,
-      "updated": 0,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "多地区近24小时新消息有限",
-        "airBaltic为公司声明转载，航班未逐一验证",
-        "ANA整合、NAC增机仅为检索线索未入卡",
-        "既有部分事件恢复未闭合，本轮未实测国泰系统"
-      ],
-      "runId": "legacy-13"
-    },
     {
       "startedAt": "2026-09-16T14:00:50+08:00",
       "finishedAt": "2026-09-16T14:02:59+08:00",
@@ -4975,10 +4951,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261017T093010-34416152ca",
+      "startedAt": "2026-10-17T09:30:10+08:00",
+      "finishedAt": "2026-10-17T09:30:15+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261016T180008-5f8c847183",
-  "lastAttemptAt": "2026-10-16T18:00:08+08:00",
-  "lastCompletedAt": "2026-10-16T18:00:14+08:00"
+  "runId": "run-20261017T093010-34416152ca",
+  "lastAttemptAt": "2026-10-17T09:30:10+08:00",
+  "lastCompletedAt": "2026-10-17T09:30:15+08:00"
 }
