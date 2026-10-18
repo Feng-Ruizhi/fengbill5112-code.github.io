@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-18T14:00:11+08:00",
+  "pageUpdated": "2026-10-18T18:00:14+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,30 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-18T15:13:21+08:00",
-      "finishedAt": "2026-09-18T15:15:04+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 1,
-      "updated": 0,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "ABC澳航停工正文本轮访问失败；未取得FWC新裁决",
-        "国泰部分运行公告明细及MEX/UIO恢复仍缺确认",
-        "马士基9月17日更新含FSC最低15%口径，但未证明该条为新变更，未作为新涨价通知",
-        "部分地区新证据有限，不能据此认定没有事件"
-      ],
-      "runId": "legacy-18"
-    },
     {
       "startedAt": "2026-09-18T18:02:21+08:00",
       "finishedAt": "2026-09-18T18:04:17+08:00",
@@ -4962,10 +4938,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261018T180010-76ff817c82",
+      "startedAt": "2026-10-18T18:00:10+08:00",
+      "finishedAt": "2026-10-18T18:00:14+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261018T140006-3b6be7c104",
-  "lastAttemptAt": "2026-10-18T14:00:06+08:00",
-  "lastCompletedAt": "2026-10-18T14:00:11+08:00"
+  "runId": "run-20261018T180010-76ff817c82",
+  "lastAttemptAt": "2026-10-18T18:00:10+08:00",
+  "lastCompletedAt": "2026-10-18T18:00:14+08:00"
 }
