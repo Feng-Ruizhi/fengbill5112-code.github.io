@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-20T18:00:15+08:00",
+  "pageUpdated": "2026-10-21T09:30:23+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,30 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-21T14:02:22+08:00",
-      "finishedAt": "2026-09-21T14:03:50+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 0,
-      "updated": 0,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "国泰BOM转NMI今日实际执行及货站细节未取得",
-        "Qantas停工新裁决与部分旧事件恢复未获确认",
-        "菲律宾DG罚则线索追溯为4日前报道，原始生效条文尚未核实，未作新法规通知",
-        "部分地区检索以旧文和重复报道为主，不据此认定无事件"
-      ],
-      "runId": "legacy-25"
-    },
     {
       "startedAt": "2026-09-22T10:28:23+08:00",
       "finishedAt": "2026-09-22T10:32:16+08:00",
@@ -4943,10 +4919,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261021T093018-e83f443f0d",
+      "startedAt": "2026-10-21T09:30:18+08:00",
+      "finishedAt": "2026-10-21T09:30:23+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261020T180009-80c700dd57",
-  "lastAttemptAt": "2026-10-20T18:00:09+08:00",
-  "lastCompletedAt": "2026-10-20T18:00:15+08:00"
+  "runId": "run-20261021T093018-e83f443f0d",
+  "lastAttemptAt": "2026-10-21T09:30:18+08:00",
+  "lastCompletedAt": "2026-10-21T09:30:23+08:00"
 }
