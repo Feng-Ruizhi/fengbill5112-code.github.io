@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-22T14:00:34+08:00",
+  "pageUpdated": "2026-10-22T18:00:34+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,30 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-23T14:01:16+08:00",
-      "finishedAt": "2026-09-23T14:02:57+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 0,
-      "updated": 0,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "Qantas维州实际停工范围未得到官方或可靠现场新确认，未把计划自动改为已发生",
-        "成都非洲新报道追溯为8月28日开航旧事件，未当9月22日新开发布",
-        "伊朗BGW/MCT及JAL页面未发现早间之外可核重要变化",
-        "部分地区新消息有限，不等于无事件"
-      ],
-      "runId": "legacy-30"
-    },
     {
       "startedAt": "2026-09-23T18:00:13+08:00",
       "finishedAt": "2026-09-23T18:04:37+08:00",
@@ -4928,10 +4904,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261022T180030-0fa3d0b116",
+      "startedAt": "2026-10-22T18:00:30+08:00",
+      "finishedAt": "2026-10-22T18:00:34+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261022T140030-d9d73361db",
-  "lastAttemptAt": "2026-10-22T14:00:30+08:00",
-  "lastCompletedAt": "2026-10-22T14:00:34+08:00"
+  "runId": "run-20261022T180030-0fa3d0b116",
+  "lastAttemptAt": "2026-10-22T18:00:30+08:00",
+  "lastCompletedAt": "2026-10-22T18:00:34+08:00"
 }
