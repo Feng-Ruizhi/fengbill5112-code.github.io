@@ -1,5 +1,5 @@
 {
-  "pageUpdated": "2026-10-23T18:00:12+08:00",
+  "pageUpdated": "2026-10-24T09:30:17+08:00",
   "lastSuccessfulCheck": null,
   "runStatus": "failed",
   "items": [
@@ -1993,29 +1993,6 @@
     }
   ],
   "runs": [
-    {
-      "startedAt": "2026-09-25T09:31:27+08:00",
-      "finishedAt": "2026-09-25T09:33:20+08:00",
-      "status": "partial",
-      "regionsSearched": [
-        "亚洲",
-        "欧洲",
-        "北美",
-        "拉美",
-        "中东",
-        "非洲",
-        "大洋洲"
-      ],
-      "added": 1,
-      "updated": 1,
-      "unsearchedRegions": [],
-      "sourceGaps": [
-        "Gulf Times正文读取失败，采用可读Reuters转载；GCAA原文及逐班范围未取得",
-        "Qantas计划结束时点已过但实际恢复未获新确认，未自动改为恢复",
-        "七区检索部分返回旧稿；其他旧事件未全部复核"
-      ],
-      "runId": "legacy-34"
-    },
     {
       "startedAt": "2026-09-25T14:00:45+08:00",
       "finishedAt": "2026-09-25T14:02:50+08:00",
@@ -4918,10 +4895,31 @@
       "sourceGaps": [
         "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
       ]
+    },
+    {
+      "runId": "run-20261024T093012-7c5c5a4e39",
+      "startedAt": "2026-10-24T09:30:12+08:00",
+      "finishedAt": "2026-10-24T09:30:17+08:00",
+      "status": "failed",
+      "regionsSearched": [],
+      "added": 0,
+      "updated": 0,
+      "unsearchedRegions": [
+        "亚洲",
+        "欧洲",
+        "北美",
+        "拉美",
+        "中东",
+        "非洲",
+        "大洋洲"
+      ],
+      "sourceGaps": [
+        "本轮研究或候选校验失败，已保留旧事件；详情仅留在私有运行目录"
+      ]
     }
   ],
   "schemaVersion": 1,
-  "runId": "run-20261023T180005-fc4ae85df1",
-  "lastAttemptAt": "2026-10-23T18:00:05+08:00",
-  "lastCompletedAt": "2026-10-23T18:00:12+08:00"
+  "runId": "run-20261024T093012-7c5c5a4e39",
+  "lastAttemptAt": "2026-10-24T09:30:12+08:00",
+  "lastCompletedAt": "2026-10-24T09:30:17+08:00"
 }
